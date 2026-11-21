@@ -21,3 +21,31 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=footer" width="60%" />
 </p>
+
+<br/>
+
+## 👨‍💻 About Me
+
+<img align="right" width="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" />
+
+- 🎓 **24-year-old** Software Engineering student & ambitious developer.
+- 🛤️ Following the **Mohammed Abu-Hadhoud Programming Roadmap** to build a rock-solid foundation.
+- 🧩 Passionate about **Organization, Productivity, Problem-Solving**, and **Project Building**.
+- 🎯 Core Philosophy: **Continuous Improvement**, **Discipline**, and **Mastering the Fundamentals** before moving to advanced concepts.
+- 🚀 Current Focus: Mastering **Programming Logic & Fundamentals** with **C++**.
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-18181B?style=for-the-badge&logo=cplusplus&logoColor=D4AF37" alt="C++" />
+  &nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-18181B?style=for-the-badge&logo=visual-studio&logoColor=D4AF37" alt="Visual Studio" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=D4AF37" alt="Git" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" />
+</p>
