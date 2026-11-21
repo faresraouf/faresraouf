@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<strong>Future Full-Stack Developer</strong>
+<strong>Future Software Engineer</strong>
 <br/>
 <sub>Building my skills, one project at a time.</sub>
 </p>
