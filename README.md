@@ -26,40 +26,28 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <ul>
-        <li>🎓 <strong>24-year-old</strong> Software Engineering student & ambitious developer.</li>
-        <li>🛤️ Following the <strong>Mohammed Abu-Hadhoud Programming Roadmap</strong> to build a rock-solid foundation.</li>
-        <li>🧩 Passionate about <strong>Organization, Productivity, Problem-Solving</strong>, and <strong>Project Building</strong>.</li>
-        <li>🎯 Core Philosophy: <strong>Continuous Improvement</strong>, <strong>Discipline</strong>, and <strong>Mastering the Fundamentals</strong> before moving to advanced concepts.</li>
-        <li>🚀 Current Focus: Mastering <strong>Programming Logic & Fundamentals</strong> with <strong>C++</strong>.</li>
-      </ul>
-    </td>
-    <td width="38%" valign="middle" align="center">
-      <table>
-        <tr>
-          <td align="left" bgcolor="#0D1117">
-            <sub>🔴 🟡 🟢 &nbsp; <code>main.cpp</code></sub>
-            <br/>
-            <img src="https://readme-typing-svg.demolab.com/?lines=%23include+%3Ciostream%3E;int+main()+%7B;++//+Discipline+%3E+Motivation;++return+0;;%7D&font=Fira+Code&center=false&width=270&height=95&color=4EC9B0&background=0D1117&vCenter=true&pause=900&size=14" alt="Animated Code Screen" />
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<div align="right">
+  <sub>🔴 🟡 🟢 &nbsp; <code>main.cpp</code></sub>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=%23include+%3Ciostream%3E;int+main()+%7B;++//+Discipline+%3E+Motivation;++return+0;;%7D&font=Fira+Code&center=false&width=270&height=95&color=4EC9B0&background=0D1117&vCenter=true&pause=900&size=14" alt="Animated Code Screen" />
+</div>
 
-<br/>
+- 🎓 **24-year-old** Software Engineering student & ambitious developer.
+- 🛤️ Following the **Mohammed Abu-Hadhoud Programming Roadmap** to build a rock-solid foundation.
+- 🧩 Passionate about **Organization, Productivity, Problem-Solving**, and **Project Building**.
+- 🎯 Core Philosophy: **Continuous Improvement**, **Discipline**, and **Mastering the Fundamentals** before moving to advanced concepts.
+- 🚀 Current Focus: Mastering **Programming Logic & Fundamentals** with **C++**.
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   &nbsp;
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   &nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  &nbsp
