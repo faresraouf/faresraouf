@@ -41,11 +41,15 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-18181B?style=for-the-badge&logo=cplusplus&logoColor=D4AF37" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   &nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-18181B?style=for-the-badge&logo=visual-studio&logoColor=D4AF37" alt="Visual Studio" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=D4AF37" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<p align="center">
+  <sub><i>Constantly expanding the toolkit as fundamentals turn into real-world builds.</i></sub>
 </p>
