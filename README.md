@@ -1,16 +1,16 @@
-## Hi there 👋
+<!-- Fares Raouf - GitHub Profile -->
 
-<!--
-**faresraouf/faresraouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Fares+Raouf;Future+Full-Stack+Developer;Passionate+About+Software+Engineering;Always+Learning+%26+Building&font=Fira+Code&center=true&width=550&height=55&color=D4AF37&vCenter=true&pause=1000&size=24" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<strong>Future Full-Stack Developer</strong>
+<br/>
+<sub>Building my skills, one project at a time.</sub>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://custom-icon-badges.demolab.com/badge/Focus-Software%20Development-14213D?style=for-the-badge&labelColor=0B132B&logo=code&logoColor=D4AF37" />
+<img src="https://custom-icon-badges.demolab.com/badge/Status-Always%20Learning-D4AF37?style=for-the-badge&labelColor=14213D&logo=book-open&logoColor=white" />
+</p>
