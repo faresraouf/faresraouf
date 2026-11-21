@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" />
+<img align="right" width="160" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop%20Computer.png" alt="Laptop Computer" />
 
 - 🎓 **24-year-old** Software Engineering student & ambitious developer.
 - 🛤️ Following the **Mohammed Abu-Hadhoud Programming Roadmap** to build a rock-solid foundation.
@@ -47,7 +47,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-6E5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <p align="center">
