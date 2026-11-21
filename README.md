@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="160" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Developer" />
+<img align="right" width="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" />
 
 - 🎓 **24-year-old** Software Engineering student & ambitious developer.
 - 🛤️ Following the **Mohammed Abu-Hadhoud Programming Roadmap** to build a rock-solid foundation.
