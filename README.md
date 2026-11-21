@@ -26,7 +26,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" />
+<p align="right">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%23include+%3Ciostream%3E;int+main()+%7B;++//+Discipline+%3E+Motivation;++return+0;;%7D&font=Fira+Code&center=false&width=320&height=110&color=D4AF37&background=18181B&vCenter=true&pause=900&size=15" alt="Animated Code Screen" />
+</p>
 
 - 🎓 **24-year-old** Software Engineering student & ambitious developer.
 - 🛤️ Following the **Mohammed Abu-Hadhoud Programming Roadmap** to build a rock-solid foundation.
