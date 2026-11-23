@@ -68,6 +68,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=faresraouf&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img height="170em" src="https://streak-stats.demolab.com?user=faresraouf&theme=tokyonight&hide_border=false" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faresraouf&theme=tokyonight" 
+    width="45%" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faresraouf&theme=tokyonight" 
+    width="45%" 
+  />
 </p>
