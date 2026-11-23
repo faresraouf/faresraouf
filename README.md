@@ -68,6 +68,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faresraouf&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=faresraouf&theme=tokyonight&hide_border=false" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=faresraouf&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=faresraouf&theme=tokyonight&hide_border=false" />
 </p>
