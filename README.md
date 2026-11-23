@@ -16,9 +16,6 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Status-Always%20Learning-9A7B2C?style=for-the-badge&labelColor=09090B&logo=book-open&logoColor=FDE68A" alt="Status Badge" />
 </p>
 
-<p align="center">
-  <img height="28" src="https://komarev.com/ghpvc/?username=faresraouf&label=Profile%20Views&color=1E3A8A&style=for-the-badge" alt="Profile Views" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=footer" width="60%" />
