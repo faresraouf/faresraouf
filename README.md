@@ -11,9 +11,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Focus-Software%20Development-18181B?style=for-the-badge&labelColor=09090B&logo=code&logoColor=D4AF37" alt="Focus Badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Focus-Software%20Development-161B22?style=for-the-badge&labelColor=09090B&logo=code&logoColor=D4AF37" alt="Focus Badge" />
   &nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Status-Always%20Learning-B45309?style=for-the-badge&labelColor=09090B&logo=book-open&logoColor=FDE68A" alt="Status Badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Status-Always%20Learning-9A7B2C?style=for-the-badge&labelColor=09090B&logo=book-open&logoColor=FDE68A" alt="Status Badge" />
 </p>
 
 <p align="center">
